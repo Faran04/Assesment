@@ -5,6 +5,6 @@ Loops
 Functions
 Data structures(List)
 
-
+Dictionaries
 Modular Code
 Debugging
