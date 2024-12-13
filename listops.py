@@ -1,0 +1,6 @@
+list=(2,3,13,5,6,7,8,9,10,11)
+sum=(2+3+4+5+6+7+8+9+10+11)
+largest=max(2,3,4,5,6,7,8,9,10,11)
+smallest=min(2,3,4,5,6,7,8,9,10,11)
+ascending = sorted(list)
+print("our list is",ascending)
